@@ -111,8 +111,6 @@ Example:
 - Achievement system
 - Online leaderboard
 
-Sabancı University
-
 ## License
 
 This project was developed for educational purposes.
